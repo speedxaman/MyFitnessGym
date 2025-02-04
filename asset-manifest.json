@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/MyFitnessGym/static/css/main.86df54e3.css",
-    "main.js": "/MyFitnessGym/static/js/main.a305383f.js",
+    "main.js": "/MyFitnessGym/static/js/main.203c7a72.js",
     "static/media/banner3.png": "/MyFitnessGym/static/media/banner3.29722ba7ed1246e3038a.png",
     "static/media/myfit.jpg": "/MyFitnessGym/static/media/myfit.4cb7ae291729503280c0.jpg",
     "static/media/gymLogo.png": "/MyFitnessGym/static/media/gymLogo.4fd632d1b005a8555dac.png",
     "static/media/exe1.webp": "/MyFitnessGym/static/media/exe1.138405cda512c066c960.webp",
     "index.html": "/MyFitnessGym/index.html",
     "main.86df54e3.css.map": "/MyFitnessGym/static/css/main.86df54e3.css.map",
-    "main.a305383f.js.map": "/MyFitnessGym/static/js/main.a305383f.js.map"
+    "main.203c7a72.js.map": "/MyFitnessGym/static/js/main.203c7a72.js.map"
   },
   "entrypoints": [
     "static/css/main.86df54e3.css",
-    "static/js/main.a305383f.js"
+    "static/js/main.203c7a72.js"
   ]
 }
